@@ -1,4 +1,4 @@
-### part-1-             The index file
+### Part-1-             The index file
 
 - The index file is a yaml file called `index.yaml`. It contains some metadata about the package, including the contents of a chart's Chart.yaml file. A valid chart repository must have an index file. The index file contains information about each chart in the chart repository. The `helm repo index` command will generate an index file based on a given local directory that contains packaged charts.
 
